@@ -1,0 +1,6 @@
+# build output
+fso-sh
+*.o
+*~
+
+.DS_Store
